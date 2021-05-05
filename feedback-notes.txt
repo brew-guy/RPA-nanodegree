@@ -1,0 +1,8 @@
+Notes:
+- App password requred to use UiPath with GMail
+- Expect to learn best practice for making template workflows with arguments for us in all sorts of programs
+- Expect to learn when to use Flowchart vs Sequence
+- 03 UiPath Advanced Automation Lesson 4, Debugging Tools Exercise starter code does not match the solution
+- 03 UiPath Advanced Automation Lesson 4, Exercise: Catching Errors 1 unclear. Which csv file? Where to fille the data, into a DataTable or to the rpachallenge.com site?
+- What is the difference between Orchestrator's classic and modern folder? Why this name, it doesn't carry any explanation about itself?
+

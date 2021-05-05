@@ -1,0 +1,7 @@
+Congratulations, {0}!
+
+Your score has just been calculated and it was HUGE!
+Just see for yourself. This is your result: {1}
+
+Regards,
+Scoreismore
